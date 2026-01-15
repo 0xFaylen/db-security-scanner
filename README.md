@@ -20,7 +20,7 @@ A Chrome extension for detecting Supabase, Firebase, and Custom API configuratio
 
 ### Option 1: Download Release (Recommended)
 1. Go to the [Releases page](../../releases) (once uploaded to GitHub)
-2. Download `db-security-scanner-v2.1.0.zip`
+2. Download `db-security-scanner-v1.0.0.zip`
 3. Unzip the file to a folder
 4. Open Chrome and navigate to `chrome://extensions/`
 5. Enable "Developer mode" (toggle in top-right)
