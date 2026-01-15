@@ -2,6 +2,8 @@
 
 A Chrome extension for detecting Supabase, Firebase, and Custom API configurations and scanning for security vulnerabilities on your own websites.
 
+Made by [@0xfaylen](https://x.com/0xFaylen)
+
 ## Features
 
 ### Detection Capabilities
